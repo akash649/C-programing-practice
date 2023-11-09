@@ -1,0 +1,20 @@
+1. install vscode
+2. install vscode extention "code runner" and "c/c++"
+3. download and install "mingw gcc compiler"
+4. minGw install "select mingw32-base" and "mingw32-gcc-g++"
+5. click installation than click apply
+6. copy minGw/bin path. defult path "C:\MinGW\bin"
+7. open "edit the system environment variables" and click "Envronment Variables"
+7. than, click path under the system variables and click edit
+8. click new and past minGw/bin path than click ok, ok , ok..
+9. restart your pc.
+10. normally user input function is not work..
+11. click file->preferences->settings or keyboard shortcute ctrl + ,
+12. search run code configuration and click
+13. select run in terminal than restart vscode. 
+14. if it not work than restart you pc
+
+
+check, gcc properly install or not..
+
+open cmd and type gcc --version than enter if cmd show version then gcc properly install
